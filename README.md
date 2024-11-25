@@ -22,5 +22,5 @@ Borchers, C., Ooge, J., Peng, C., & Aleven, V. (2025). How Learner Control and E
 
 ## Folder Structure
 
-* `design.pptx`: Presentation used during interviews for gathering qualitative feedback on designs.
+* `designs.pptx`: Presentation used during interviews for gathering qualitative feedback on designs.
 * `interview.pdf`: Protocol for interviews conducted to collect qualitative data.
